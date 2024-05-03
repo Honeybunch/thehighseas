@@ -34,3 +34,5 @@ file(GLOB_RECURSE source "source/*.c" )
 
 # Must pass source as a string or else it won't properly be interpreted as a list
 tb_add_app(thehighseas "${source}")
+
+tb_use_addon(thehighseas tb_water)

@@ -15,6 +15,26 @@
         "sdl3-mixer"
       ],
       "reference": "sdl3-mixer"
+    },
+    {
+      "kind": "git",
+      "repository": "https://github.com/Honeybunch/vcpkg",
+      "baseline": "9fc1341c9aeff794422d608a1c51149c9592fa9a",
+      "packages": [
+        "steam-audio",
+        "libmysofa",
+        "flatbuffers"
+      ],
+      "reference": "steam-audio"
+    },
+    {
+      "kind": "git",
+      "repository": "https://github.com/Honeybunch/vcpkg",
+      "baseline": "d545d3b9232019da6f00347e21e796dfe73f5d16",
+      "packages": [
+        "enkits"
+      ],
+      "reference": "enkits"
     }
   ]
 }
