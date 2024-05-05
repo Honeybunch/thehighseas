@@ -3,7 +3,7 @@
   "AppID" "2213960"
   "Desc" "v0.1.0"
   "SetLive" "prerelease" 
-  "ContentRoot" "..\build\x64\linux-llvm\Release"
+  "ContentRoot" "..\build\x64-linux-llvm\Release"
   "BuildOutput" "..\output\"
 
   "Depots"
