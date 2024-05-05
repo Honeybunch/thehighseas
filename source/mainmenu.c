@@ -7,6 +7,7 @@
 #include "world.h"
 
 #include <flecs.h>
+#include <stdlib.h> // Necessary for exit on apple
 
 #include "gamestate.h"
 
